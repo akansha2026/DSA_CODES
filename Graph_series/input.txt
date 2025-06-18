@@ -1,6 +1,2 @@
-5
-baa   
-abcd   
-abca   
-cab   
-cad
+hit cog
+hot dot dog lot log cog
