@@ -1,0 +1,10 @@
+9 -9 1 -4 -1 9 -10 
+12 -12 -3 -6 -6 12 -16 
+5 -10 -8 -5 -16 16 -20 
+Start: 0 End: 0 Sum: 9
+Start: 0 End: 1 Sum: 12
+Start: 0 End: 2 Sum: 16
+Start: 1 End: 1 Sum: 3
+Start: 1 End: 2 Sum: 7
+Start: 2 End: 2 Sum: 4
+16
